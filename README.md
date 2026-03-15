@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # İş Başvuru Yönetim Sistemi
 
 Profesyonel, kurumsal kariyer başvuru ve işe alım platformu. Next.js, TypeScript, Tailwind CSS ve PostgreSQL ile geliştirilmiştir.
@@ -159,3 +160,6 @@ EMAIL_SERVICE_ENABLED=true   # Gerçek mail için (Resend/SendGrid gerekir)
 
 ## Lisans
 Özel kullanım.
+=======
+# hr
+>>>>>>> 897cee57b1f35435c8a14986b40803ffabab37f7
